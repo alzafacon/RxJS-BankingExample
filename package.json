@@ -1,0 +1,14 @@
+{
+  "name": "bank_simulation",
+  "version": "1.0.0",
+  "description": "Bank Simulation using rxjs instead of semaphores",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Fidel Coria",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.4"
+  }
+}
